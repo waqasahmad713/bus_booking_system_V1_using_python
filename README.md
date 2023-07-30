@@ -1,17 +1,12 @@
 # bus_booking_system_V1_using_python
 
-# Bus Ticket Booking System
-
 This is a simple Bus Ticket Booking System implemented in Python. It includes classes to represent users, buses, and a counter for managing bus operations.
 # User Class
 The User class represents a user with a username and password.
 # Bus Class
 The Bus class represents a bus with various attributes like coach number, driver name, arrival and departure times, starting and ending points, and a list of seats.
-
 # Counter Class
-
 The Counter class inherits from the waqas class and acts as the main interface for users and admins. It provides the following functionalities:
-
 1. Create an Account: Users can create an account by providing a username and password.
 2. Login: Users can log in to their accounts using their credentials.
 3. View Available Buses: Users can check the list of available buses.
